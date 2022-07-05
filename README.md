@@ -1,4 +1,5 @@
-# Article Class Predictor
+# The Hindu News Article Class Predictor
+This is a web app where upon entering the news article link from the leading Indian daily `The Hindu`, the app classifies the news into the category(National, International, Sports etc) it falls into.
 
 ## To run the web app
 
